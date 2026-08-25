@@ -1,0 +1,19 @@
+{
+  "name": "c3d",
+  "description": "c³d.gg plugins for Claude Code",
+  "owner": { "name": "c³d", "url": "https://github.com/c3d-gg" },
+  "plugins": [
+    {
+      "name": "clauc",
+      "source": { "source": "github", "repo": "c3d-gg/clauc", "ref": "v0.1.0" },
+      "description": "Branch-level time tracking — estimate from your own history instead of vibes.",
+      "version": "0.1.0",
+      "author": { "name": "c³d", "url": "https://github.com/c3d-gg" },
+      "homepage": "https://github.com/c3d-gg/clauc",
+      "repository": "https://github.com/c3d-gg/clauc",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["time-tracking", "estimation", "git", "adhd"]
+    }
+  ]
+}
