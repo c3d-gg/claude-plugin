@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "clauc",
-      "source": { "source": "github", "repo": "c3d-gg/clauc", "ref": "v0.1.0" },
+      "source": { "source": "url", "url": "https://github.com/c3d-gg/clauc.git", "ref": "v0.1.0" },
       "description": "Branch-level time tracking — estimate from your own history instead of vibes.",
       "version": "0.1.0",
       "author": { "name": "c³d", "url": "https://github.com/c3d-gg" },
